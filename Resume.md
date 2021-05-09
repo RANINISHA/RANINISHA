@@ -50,7 +50,12 @@
 </ol>   
 </details>
 
-<a href="https://github.com/RANINISHA/RANINISHA/blob/main/download.png?raw=true"><img src="https://openthread.google.cn/images/ot-contrib-google.png"></a>
+
+
+<a href="https://openthread.google.cn/images/ot-contrib-google.png"><img src="https://github.com/RANINISHA/RANINISHA/blob/main/download.png?raw=true"/></a>
+
+<a href="mailto:vaid59nisha@gmail.com?subject=Mail from our Website"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+
 
 ![link](https://openthread.google.cn/images/ot-contrib-google.png)
 
