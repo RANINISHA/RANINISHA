@@ -54,12 +54,12 @@
 help -->
 
 
-<!-- <a href="https://openthread.google.cn/images/ot-contrib-google.png"><img src="https://github.com/RANINISHA/RANINISHA/blob/main/download.png?raw=true"/></a>
+<!-- <a href="https://openthread.google.cn/images/ot-contrib-google.png"><img src="https://github.com/RANINISHA/RANINISHA/blob/main/download.png?raw=true"/></a> -->
 
 <a href="mailto:vaid59nisha@gmail.com?subject=Mail from our Website"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
 
-<!-- <a href="https://www.facebook.com/nisha.vaid.75"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+<!-- <a href="https://www.facebook.com/nisha.vaid.75"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a> -->
 
 <!-- ![link](https://openthread.google.cn/images/ot-contrib-google.png)
 
