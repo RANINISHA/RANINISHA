@@ -1,8 +1,6 @@
 
 <h1 align="center">  MY RESUME <h1>
  
- ----------
- 
    <ol> <br/>
      <li>
       :arrow_down_small:ABOUT ME:arrow_down_small:
@@ -12,9 +10,7 @@
    and currently I am working on Govt. project  E-challan  for (NIC) for one year </p>
   
   
-  
- 
-  -------
+    -------
   
   <h2 align="center"> PERSONEL DETAILS</h2>
    <details close="close"> 
