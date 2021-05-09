@@ -1,9 +1,8 @@
-<body style="background-color:powderblue;">
- 
+
 <h1 align="center">  MY RESUME <h1>
  
 
-*ABOUT ME :*
+*ABOUT ME :* :wave:
 
 <a href align="center"><img src="https://github.com/RANINISHA/RANINISHA/blob/main/4b063b0b86884c44bd29fb8ca99d8b4c.png?raw=true"/></a> 
   
@@ -15,7 +14,7 @@
   
   <h2 align="center"> PERSONEL DETAILS</h2>
    <details close="close"> 
-    <summary><b> Click here</b></summary>
+    <summary><b> Click here</b> :point_left:</summary>
 
   <ul>
   <li> NAME : NISHA RANI</li>
@@ -32,7 +31,7 @@
   
   <h2 align="center"> QUALIFICATION </h2>
   <details close="close"> 
-  <summary><b>Education Tree </b></summary>
+  <summary><b>Education Tree </b> :point_left: </summary>
   
   <ol> <br/>
      <li>
@@ -72,7 +71,7 @@
 
 <h2 align="center"> TECHNICAL SKILLS</h2>
    <details close="close"> 
-    <summary><b> Click here</b></summary>
+    <summary><b> Click here</b>:point_left:</summary>
 
   <ul>
   <li> Linux Administratin</li>
@@ -91,6 +90,12 @@ help -->
 
 ---------
 
+<h2 align="center"> CONNECT WITH  ME AT </h2>
+   <details close="close"> 
+    <summary><b> Click here</b>:point_left:</summary>
+
+:point_left:
+
 <p align="center">
 <a href="mailto:vaid59nisha@gmail.com?subject=Mail from our Website"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
 
@@ -101,4 +106,4 @@ help -->
 
 
 
-</body>
+
