@@ -1,14 +1,14 @@
 
 <h1 align="center">  MY RESUME <h1>
- <details close="close"> 
-  <summary><b>About Me </b></summary>
  
+
+*ABOUT ME :*
   
- <p align="left"> I am junior devops Engineer at Keen & Able computers PVT.LTD, i have 2 years experience as Linux Admin L1 support at Indigo Airlines 
-   and currently I am working on Govt. project  E-challan  for (NIC) for one year. </p>
+<P align=:left">  I am junior devops Engineer at Keen & Able computers pvt.ltd, i have 2 years experience as Linux Admin L1 support at Indigo Airlines 
+   and currently I am working on Govt. project  E-challan  for (NIC) for one year. </P >
   
-  
-    -------
+ ------- 
+   
   
   <h2 align="center"> PERSONEL DETAILS</h2>
    <details close="close"> 
@@ -65,6 +65,21 @@
 </ol>   
 </details>
 
+
+
+<h2 align="center"> TECHNICAL SKILLS</h2>
+   <details close="close"> 
+    <summary><b> Click here</b></summary>
+
+  <ul>
+  <li> Linux Administratin</li>
+  <li> Docker </li>
+  <li> mysql,Postgresql Database </li>
+  <li> apache web server, Nginx web server, apache tomcat</li>
+    <li> DHCP SERVER, DNS SERVER </li>
+    <li> MONITORING TOOLS: NAGIOS ,GRAFANA, PROMETHEUS </li>
+   </ul>
+  </details>
 <!--
 help -->
 
