@@ -1,5 +1,7 @@
 
 <h1 align="center">  MY RESUME <h1>
+  
+  
   <h2 align="center"> PERSONEL DETAILS</h2>
   <ul>
   <li> NAME : NISHA RANI</li>
@@ -48,7 +50,10 @@
 </ol>   
 </details>
 
-<a href="default.asp">
-<img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
-</a>
+<a href="https://github.com/RANINISHA/RANINISHA/blob/main/download.png?raw=true"><img src="https://openthread.google.cn/images/ot-contrib-google.png"></a>
 
+![link](https://openthread.google.cn/images/ot-contrib-google.png)
+
+
+
+<h2 style="background-color:rgb(255, 99, 71);">...</h2>
