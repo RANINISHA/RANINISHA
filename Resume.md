@@ -97,6 +97,8 @@ help -->
 
   <ul>
   <li> Listening to music</li>
+ 
+ <a href align="center"><img src=" https://github.com/RANINISHA/RANINISHA/blob/main/music.jpg?raw=true"/></a>
   <li>Singing</li>
  <li>Cooking</li>
   
