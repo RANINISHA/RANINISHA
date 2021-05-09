@@ -1,8 +1,25 @@
 
 <h1 align="center">  MY RESUME <h1>
+ 
+ ----------
+ 
+   <ol> <br/>
+     <li>
+      :arrow_down_small:ABOUT ME:arrow_down_small:
+        </li>
+    <br/>
+ <p align="left"> I am junior devops Engineer at Keen & Able computers PVT.LTD, i have 2 years experience as Linux Admin L1 support at Indigo Airlines 
+   and currently I am working on Govt. project  E-challan  for (NIC) for one year </p>
   
+  
+  
+ 
+  -------
   
   <h2 align="center"> PERSONEL DETAILS</h2>
+   <details close="close"> 
+    <summary><b> Click here</b></summary>
+
   <ul>
   <li> NAME : NISHA RANI</li>
   <li>DATE OF BIRTH : 27-06-1988 </li>
@@ -12,6 +29,10 @@
     <li> E-mail :  vaid59nisha@gmail.com </li>
     <li> Blood Group : O+ve </li>
    </ul>
+  </details>
+  
+  -------
+  
   <h2 align="center"> QUALIFICATION </h2>
   <details close="close"> 
   <summary><b>Education Tree </b></summary>
@@ -56,7 +77,10 @@ help -->
 
 <!-- <a href="https://openthread.google.cn/images/ot-contrib-google.png"><img src="https://github.com/RANINISHA/RANINISHA/blob/main/download.png?raw=true"/></a> -->
 
-<a href="mailto:vaid59nisha@gmail.com?subject=Mail from our Website"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+---------
+
+<p align="center">
+<a href="mailto:vaid59nisha@gmail.com?subject=Mail from our Website"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
 
 
 <!-- <a href="https://www.facebook.com/nisha.vaid.75"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a> -->
@@ -65,4 +89,3 @@ help -->
 
 
 
-<h2 style="background-color:rgb(255, 99, 71);">...</h2>
