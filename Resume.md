@@ -31,7 +31,7 @@
   
   <h2 align="center"> QUALIFICATION </h2>
   <details close="close"> 
-  <summary><b>Education Tree </b> :point_left: </summary>
+  <summary><b> Click here </b> :point_left: </summary>
   
   <ol> <br/>
      <li>
@@ -90,13 +90,28 @@ help -->
 
 ---------
 
+
+ <h2 align="center"> MY HOBBIES</h2>
+   <details close="close"> 
+    <summary><b> Click here</b> :point_left:</summary>
+
+  <ul>
+  <li> Listening to music</li>
+  <li>Singing</li>
+ <li>Cooking</li>
+  
+   </ul>
+  </details>
+
+------------------
+
 <h2 align="center"> CONNECT WITH  ME AT </h2>
    <details close="close"> 
     <summary><b> Click here</b>:point_left:</summary>
 
-:point_left:
 
-<p align="center">
+
+<p align="center" >
 <a href="mailto:vaid59nisha@gmail.com?subject=Mail from our Website"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
 
 
