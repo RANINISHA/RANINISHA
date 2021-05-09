@@ -1,13 +1,11 @@
 
 <h1 align="center">  MY RESUME <h1>
+ <details close="close"> 
+  <summary><b>About Me </b></summary>
  
-   <ol> <br/>
-     <li>
-      :arrow_down_small:ABOUT ME:arrow_down_small:
-        </li>
-    <br/>
+  
  <p align="left"> I am junior devops Engineer at Keen & Able computers PVT.LTD, i have 2 years experience as Linux Admin L1 support at Indigo Airlines 
-   and currently I am working on Govt. project  E-challan  for (NIC) for one year </p>
+   and currently I am working on Govt. project  E-challan  for (NIC) for one year. </p>
   
   
     -------
