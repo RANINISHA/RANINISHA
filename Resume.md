@@ -1,13 +1,16 @@
 
 <h1 align="center">  MY RESUME <h1>
  
+ 
 
-*ABOUT ME :* :wave:
+<h2 align="center"> ABOUT ME  </h2>
 
-<a href align="center"><img src="https://github.com/RANINISHA/RANINISHA/blob/main/4b063b0b86884c44bd29fb8ca99d8b4c.png?raw=true"/></a> 
+<p align="center" >
+ 
+<img src="https://github.com/RANINISHA/RANINISHA/blob/main/4b063b0b86884c44bd29fb8ca99d8b4c.png?raw=true">  </p>
   
-<P align=:"left">  I am  working As junior devops Engineer at Keen & Able computers pvt.ltd. , i have 2 years experience as Linux Admin L1 support at Indigo Airlines 
-   and currently I am working on Govt. project  E-challan  for (NIC) for one year. </P >
+<p align="center">  I am  working as  a junior devops Engineer at Keen & Able computers pvt.ltd. , i have 2 years experience as Linux Admin L1 support at Indigo Airlines 
+   and currently I am working on Govt. project  E-challan  for (NIC) for one year. </p >
   
  ------- 
    
