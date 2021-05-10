@@ -7,8 +7,7 @@
 
 <p align="center" ><img src="https://github.com/RANINISHA/RANINISHA/blob/main/4b063b0b86884c44bd29fb8ca99d8b4c.png?raw=true">  </p>
   
-<p align="center">  I am  working as  a junior devops Engineer at Keen & Able computers pvt.ltd. , i have 2 years experience as Linux Admin L1 support at Indigo Airlines 
-   and currently I am working on Govt. project  E-challan  for (NIC) for one year. </p >
+<p align="center">  I am  working as  a junior devops Engineer at Keen & Able computers pvt.ltd. </p >
   
  ------- 
    
@@ -106,11 +105,44 @@ help -->
 
 ------------------
 
+ <h2 align="center">EXPERIENCE</h2>
+   <details close="close"> 
+    <summary><b> Click here</b> :point_left:</summary>
+
+  <ul>
+  <li>I have 2 years experience as Linux Admin L1 support at Indigo Airlines </li>
+  <li>Currently I am working on Govt. project  E-challan  for (NIC) for one year.</li>
+   </ul>
+  </details>
+
+-----------------------
+<h2 align="center">REFERENCES</h2>
+   <details close="close"> 
+    <summary><b> Click here</b> :point_left:</summary>
+
+  <ul>
+  <li> https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet </li>
+  <li>.https://www.w3schools.com/tags/tag_comment.asp</li>
+ <li>https://github.com/ikatyang/emoji-cheat-sheet</li>
+   </ul>
+  </details>
+
+---------------------
+
+<h2 align="center">BEST READ ME</h2>
+   <details close="close"> 
+    <summary><b> Click here</b> :point_left:</summary>
+
+  <ul>
+  <li> https://github.com/somgithub111/keenable/blob/main/MY_Biodata.md </li>
+  
+   </ul>
+  </details>
+
+---------------------------
 <h2 align="center"> CONNECT WITH  ME AT </h2>
    <details close="close"> 
     <summary><b> Click here</b>:point_left:</summary>
-
-
 
 <p align="center" >
 <a href="mailto:vaid59nisha@gmail.com?subject=Mail from our Website"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
