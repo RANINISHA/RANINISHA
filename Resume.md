@@ -6,7 +6,7 @@
 
 <a href align="center"><img src="https://github.com/RANINISHA/RANINISHA/blob/main/4b063b0b86884c44bd29fb8ca99d8b4c.png?raw=true"/></a> 
   
-<P align=:"left">  I am junior devops Engineer at Keen & Able computers pvt.ltd. , i have 2 years experience as Linux Admin L1 support at Indigo Airlines 
+<P align=:"left">  I am  working As junior devops Engineer at Keen & Able computers pvt.ltd. , i have 2 years experience as Linux Admin L1 support at Indigo Airlines 
    and currently I am working on Govt. project  E-challan  for (NIC) for one year. </P >
   
  ------- 
