@@ -15,7 +15,7 @@
 
 <p align="left" ><img src="https://github.com/RANINISHA/RANINISHA/blob/main/missudad.jpeg">  </p>
 
-<p align="right" ><img src="https://github.com/RANINISHA/RANINISHA/blob/main/missudad.jpeg">  </p>
+<p align="right" ><img src="https://github.com/RANINISHA/RANINISHA/blob/main/dadslove.png">  </p>
 
   
 <p align="center"> When i lost my father in an road accident that was the worst moment of my life, that was  </p >
