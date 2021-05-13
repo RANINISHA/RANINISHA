@@ -24,6 +24,6 @@ When i lost my father in an road accident that was the worst moment of my life, 
     <summary><b> Click here</b> :point_left:</summary>
 
 
-<p align="center"> The best moment of my life was  when i  started earning and became self independent,i  could fulfill my  basic needs  as i grew i started supporting  my family financially , which inspire me to improve my skills and to grow finantially .  </p >
+<p align="center"> The best moment of my life was  when i  started earning and became self independent,i  could fulfill my  basic needs  ,as i grew i started supporting  my family financially , which inspire me to improve my skills and to grow finantially .  </p >
   .
 </details>
