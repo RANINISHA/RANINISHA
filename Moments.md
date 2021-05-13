@@ -2,7 +2,7 @@
  
  
 
-<p align="center"> https://github.com/RANINISHA/RANINISHA/blob/main/moments.html  </p>
+<p align="left"> https://github.com/RANINISHA/RANINISHA/blob/main/moments.html  </p>
 
 
   
@@ -14,6 +14,9 @@
     <summary><b> Click here</b> :point_left:</summary>
 
 <p align="center" ><img src="https://github.com/RANINISHA/RANINISHA/blob/main/missudad.jpeg">  </p>
+
+<p align="center" ><img src="https://github.com/RANINISHA/RANINISHA/blob/main/missudad.jpeg">  </p>
+
   
 <p align="center"> When i lost my father in an road accident that was the worst moment of my life, that was  </p >
   
