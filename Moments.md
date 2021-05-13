@@ -1,15 +1,9 @@
 <h1 align="center">  WORST MOMENT AND BEST MOMENT OF LIFE <h1>
  
- 
-
-<p align="left"> https://github.com/RANINISHA/RANINISHA/blob/main/moments.html  </p>
-
-
-  
- ------- 
+  ------- 
    
   
-  <h2 align="center"> WORST MOMENT</h2>
+  <h2 align="center"> WORST MOMENT OF MY LIFE </h2>
    <details close="close"> 
     <summary><b> Click here</b> :point_left:</summary>
 
@@ -19,11 +13,11 @@
   
 <p align="right" ><img src="https://github.com/RANINISHA/RANINISHA/blob/main/dadslove.png">  </p>
 
-  </details>
+ </details>
   
   -------
 
-<h2 align="center"> WORST MOMENT</h2>
+<h2 align="center"> BEST  MOMENT OF MY LIFE </h2>
    <details close="close"> 
     <summary><b> Click here</b> :point_left:</summary>
 
