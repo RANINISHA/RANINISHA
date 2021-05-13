@@ -11,7 +11,7 @@
 
 <p align="center"> 
 When i lost my father in an road accident that was the worst moment of my life, I had completely lost my consciousness, I lost interest in study, and career
-,I lived like a dead corpse for many months  </p >
+,I lived like a dead corpse for many months.  </p >
   
 <p align="right" ><img src="https://github.com/RANINISHA/RANINISHA/blob/main/dadslove.png">  </p>
 
