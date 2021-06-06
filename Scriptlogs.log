@@ -1,0 +1,137 @@
+/home/nisha  INITIALISING ./nisha_script.sh
+/home/nisha ./nisha_script.sh [INITIAL]:Asking user to input directory name to store output datafile
+/home/nisha ./nisha_script.sh [SUCCESS]: Entered directory name is- data
+/home/nisha ./nisha_script.sh [CHECK]:checking if directory name- data already Exists or not
+Failure at 40
+/home/nisha  INITIALISING ./nisha_script.sh
+/home/nisha ./nisha_script.sh [INITIAL]:Asking user to input directory name to store output datafile
+/home/nisha ./nisha_script.sh [SUCCESS]: Entered directory name is- d1
+/home/nisha ./nisha_script.sh [CHECK]:checking if directory name- d1 already Exists or not
+/home/nisha ./nisha_script.sh [SUCCESS]: New Directory d1 has been created at /home/nisha
+/home/nisha ./nisha_script.sh [SUCCESS]:Output Directory changed to /home/nisha/d1
+/home/nisha ./nisha_script.sh [SUCCESS] Spreadsheet1 downloaded from below url - https://docs.google.com/spreadsheets/d/e/2PACX-1vTrNldUZStbLCL-Q9Le9ilWrWxR1XW5N4zOzpBbM4aBEsgp2wheS7ioOx0yQ8a_zZuxvw4fXkwYH-Mh/pub?output=csv
+/home/nisha ./nisha_script.sh [SUCCESS] Downloaded file renamed to Evaluation_sheet1.csv
+/home/nisha ./nisha_script.sh [SUCCESS] Spreadsheet2 downloaded from below url -- https://docs.google.com/spreadsheets/d/e/2PACX-1vRc3-RATBQ0U-XYPwb8uRHs0sMwJspqnspJxWFPXVz_pF0NA2QTFA-rkmPsRjMOlF_xPdpwBRjYOkhK/pub?output=csv
+/home/nisha ./nisha_script.sh [SUCCESS] Downloaded file renamed to Evaluation_sheet2.csv
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Intern Name_ in sheet1=1]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Intern Name_ in sheet2=1]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Average_ in sheet1=1]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Average_ in sheet2=1]
+/home/nisha ./nisha_script.sh [SUCCESS]: Extracted Name, Sum, Column from sheet1 and stored to /home/nisha/d1 as (Output_of_Sheet)
+/home/nisha ./nisha_script.sh [SUCCESS]: Extracted Name, Sum, Column from sheet2 and stored to /home/nisha/d1 as (Output_of_Sheet)
+Failure at 130
+/home/nisha  INITIALISING ./nisha_script.sh
+/home/nisha ./nisha_script.sh [INITIAL]:Asking user to input directory name to store output datafile
+/home/nisha ./nisha_script.sh [SUCCESS]: Entered directory name is- d2
+/home/nisha ./nisha_script.sh [CHECK]:checking if directory name- d2 already Exists or not
+/home/nisha ./nisha_script.sh [SUCCESS]: New Directory d2 has been created at /home/nisha
+/home/nisha ./nisha_script.sh [SUCCESS]:Output Directory changed to /home/nisha/d2
+/home/nisha ./nisha_script.sh [SUCCESS] Spreadsheet1 downloaded from below url - https://docs.google.com/spreadsheets/d/e/2PACX-1vTrNldUZStbLCL-Q9Le9ilWrWxR1XW5N4zOzpBbM4aBEsgp2wheS7ioOx0yQ8a_zZuxvw4fXkwYH-Mh/pub?output=csv
+/home/nisha ./nisha_script.sh [SUCCESS] Downloaded file renamed to Evaluation_sheet1.csv
+/home/nisha ./nisha_script.sh [SUCCESS] Spreadsheet2 downloaded from below url -- https://docs.google.com/spreadsheets/d/e/2PACX-1vRc3-RATBQ0U-XYPwb8uRHs0sMwJspqnspJxWFPXVz_pF0NA2QTFA-rkmPsRjMOlF_xPdpwBRjYOkhK/pub?output=csv
+/home/nisha ./nisha_script.sh [SUCCESS] Downloaded file renamed to Evaluation_sheet2.csv
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Intern Name_ in sheet1=1]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Intern Name_ in sheet2=1]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Average_ in sheet1=1]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Average_ in sheet2=1]
+/home/nisha ./nisha_script.sh [SUCCESS]: Extracted Name, Sum, Column from sheet1 and stored to /home/nisha/d2 as (Output_of_Sheet)
+/home/nisha ./nisha_script.sh [SUCCESS]: Extracted Name, Sum, Column from sheet2 and stored to /home/nisha/d2 as (Output_of_Sheet)
+Failure at 130
+/home/nisha  INITIALISING ./nisha_script.sh
+/home/nisha ./nisha_script.sh [INITIAL]:Asking user to input directory name to store output datafile
+/home/nisha ./nisha_script.sh [SUCCESS]: Entered directory name is- d3
+/home/nisha ./nisha_script.sh [CHECK]:checking if directory name- d3 already Exists or not
+/home/nisha ./nisha_script.sh [SUCCESS]: New Directory d3 has been created at /home/nisha
+/home/nisha ./nisha_script.sh [SUCCESS]:Output Directory changed to /home/nisha/d3
+/home/nisha ./nisha_script.sh [SUCCESS] Spreadsheet1 downloaded from below url - https://docs.google.com/spreadsheets/d/e/2PACX-1vTrNldUZStbLCL-Q9Le9ilWrWxR1XW5N4zOzpBbM4aBEsgp2wheS7ioOx0yQ8a_zZuxvw4fXkwYH-Mh/pub?output=csv
+/home/nisha ./nisha_script.sh [SUCCESS] Downloaded file renamed to Evaluation_sheet1.csv
+/home/nisha ./nisha_script.sh [SUCCESS] Spreadsheet2 downloaded from below url -- https://docs.google.com/spreadsheets/d/e/2PACX-1vRc3-RATBQ0U-XYPwb8uRHs0sMwJspqnspJxWFPXVz_pF0NA2QTFA-rkmPsRjMOlF_xPdpwBRjYOkhK/pub?output=csv
+/home/nisha ./nisha_script.sh [SUCCESS] Downloaded file renamed to Evaluation_sheet2.csv
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Intern Name_ in sheet1=2]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Intern Name_ in sheet2=2]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Average_ in sheet1=11]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Average_ in sheet2=11]
+/home/nisha ./nisha_script.sh [SUCCESS]: Extracted Name, Sum, Column from sheet1 and stored to /home/nisha/d3 as (Output_of_Sheet)
+/home/nisha ./nisha_script.sh [SUCCESS]: Extracted Name, Sum, Column from sheet2 and stored to /home/nisha/d3 as (Output_of_Sheet)
+/home/nisha ./nisha_script.sh [SUCCESS] Output generated to terminal
+/home/nisha ./nisha_script.sh [EXITING ./nisha_script.sh ]
+/home/nisha  INITIALISING ./nisha_script.sh
+/home/nisha ./nisha_script.sh [INITIAL]:Asking user to input directory name to store output datafile
+/home/nisha ./nisha_script.sh [SUCCESS]: Entered directory name is- d4
+/home/nisha ./nisha_script.sh [CHECK]:checking if directory name- d4 already Exists or not
+/home/nisha ./nisha_script.sh [SUCCESS]: New Directory d4 has been created at /home/nisha
+/home/nisha ./nisha_script.sh [SUCCESS]:Output Directory changed to /home/nisha/d4
+/home/nisha ./nisha_script.sh [SUCCESS] Spreadsheet1 downloaded from below url - https://docs.google.com/spreadsheets/d/e/2PACX-1vSpwV_MZ1SP_Tz47-E5UZ87PDKVfv_6iAAF91nhRet6ST7a-6C8SrfLr00R_jiooMmew-M6wDXrrgZD/pub?output=csv
+/home/nisha ./nisha_script.sh [SUCCESS] Downloaded file renamed to Evaluation_sheet1.csv
+/home/nisha ./nisha_script.sh [SUCCESS] Spreadsheet2 downloaded from below url -- https://docs.google.com/spreadsheets/d/e/2PACX-1vSpwV_MZ1SP_Tz47-E5UZ87PDKVfv_6iAAF91nhRet6ST7a-6C8SrfLr00R_jiooMmew-M6wDXrrgZD/pub?output=csv
+/home/nisha ./nisha_script.sh [SUCCESS] Downloaded file renamed to Evaluation_sheet2.csv
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Intern Name_ in sheet1=2]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Intern Name_ in sheet2=2]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Average_ in sheet1=11]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Average_ in sheet2=11]
+/home/nisha ./nisha_script.sh [SUCCESS]: Extracted Name, Sum, Column from sheet1 and stored to /home/nisha/d4 as (Output_of_Sheet)
+/home/nisha ./nisha_script.sh [SUCCESS]: Extracted Name, Sum, Column from sheet2 and stored to /home/nisha/d4 as (Output_of_Sheet)
+/home/nisha ./nisha_script.sh [SUCCESS] Output generated to terminal
+/home/nisha ./nisha_script.sh [EXITING ./nisha_script.sh ]
+/home/nisha  INITIALISING ./nisha_script.sh
+/home/nisha ./nisha_script.sh [INITIAL]:Asking user to input directory name to store output datafile
+/home/nisha  INITIALISING ./nisha_script.sh
+/home/nisha ./nisha_script.sh [INITIAL]:Asking user to input directory name to store output datafile
+/home/nisha ./nisha_script.sh [SUCCESS]: Entered directory name is- d5
+/home/nisha ./nisha_script.sh [CHECK]:checking if directory name- d5 already Exists or not
+/home/nisha ./nisha_script.sh [SUCCESS]: New Directory d5 has been created at /home/nisha
+/home/nisha ./nisha_script.sh [SUCCESS]:Output Directory changed to /home/nisha/d5
+/home/nisha ./nisha_script.sh [SUCCESS] Spreadsheet1 downloaded from below url - https://docs.google.com/spreadsheets/d/e/2PACX-1vSpwV_MZ1SP_Tz47-E5UZ87PDKVfv_6iAAF91nhRet6ST7a-6C8SrfLr00R_jiooMmew-M6wDXrrgZD/pub?output=csv
+/home/nisha ./nisha_script.sh [SUCCESS] Downloaded file renamed to Evaluation_sheet1.csv
+/home/nisha ./nisha_script.sh [SUCCESS] Spreadsheet2 downloaded from below url -- https://docs.google.com/spreadsheets/d/e/2PACX-1vSpwV_MZ1SP_Tz47-E5UZ87PDKVfv_6iAAF91nhRet6ST7a-6C8SrfLr00R_jiooMmew-M6wDXrrgZD/pub?output=csv
+/home/nisha ./nisha_script.sh [SUCCESS] Downloaded file renamed to Evaluation_sheet2.csv
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Intern Name_ in sheet1=2]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Intern Name_ in sheet2=2]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Average_ in sheet1=11]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Average_ in sheet2=11]
+/home/nisha ./nisha_script.sh [SUCCESS]: Extracted Name, Sum, Column from sheet1 and stored to /home/nisha/d5 as (Output_of_Sheet)
+/home/nisha ./nisha_script.sh [SUCCESS]: Extracted Name, Sum, Column from sheet2 and stored to /home/nisha/d5 as (Output_of_Sheet)
+/home/nisha ./nisha_script.sh [SUCCESS] Output generated to terminal
+/home/nisha ./nisha_script.sh [EXITING ./nisha_script.sh ]
+/home/nisha  INITIALISING ./nisha_script.sh
+/home/nisha ./nisha_script.sh [INITIAL]:Asking user to input directory name to store output datafile
+/home/nisha ./nisha_script.sh [SUCCESS]: Entered directory name is- d6
+/home/nisha ./nisha_script.sh [CHECK]:checking if directory name- d6 already Exists or not
+/home/nisha ./nisha_script.sh [SUCCESS]: New Directory d6 has been created at /home/nisha
+/home/nisha ./nisha_script.sh [SUCCESS]:Output Directory changed to /home/nisha/d6
+/home/nisha ./nisha_script.sh [SUCCESS] Spreadsheet1 downloaded from below url - https://docs.google.com/spreadsheets/d/e/2PACX-1vSpwV_MZ1SP_Tz47-E5UZ87PDKVfv_6iAAF91nhRet6ST7a-6C8SrfLr00R_jiooMmew-M6wDXrrgZD/pub?output=csv
+/home/nisha ./nisha_script.sh [SUCCESS] Downloaded file renamed to Evaluation_sheet1.csv
+/home/nisha ./nisha_script.sh [SUCCESS] Spreadsheet2 downloaded from below url -- https://docs.google.com/spreadsheets/d/e/2PACX-1vSpwV_MZ1SP_Tz47-E5UZ87PDKVfv_6iAAF91nhRet6ST7a-6C8SrfLr00R_jiooMmew-M6wDXrrgZD/pub?output=csv
+/home/nisha ./nisha_script.sh [SUCCESS] Downloaded file renamed to Evaluation_sheet2.csv
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Intern Name_ in sheet1=2]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Intern Name_ in sheet2=2]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Average_ in sheet1=11]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Average_ in sheet2=11]
+/home/nisha ./nisha_script.sh [SUCCESS]: Extracted Name, Sum, Column from sheet1 and stored to /home/nisha/d6 as (Output_of_Sheet)
+/home/nisha ./nisha_script.sh [SUCCESS]: Extracted Name, Sum, Column from sheet2 and stored to /home/nisha/d6 as (Output_of_Sheet)
+/home/nisha ./nisha_script.sh [SUCCESS] Output generated to terminal
+/home/nisha ./nisha_script.sh [EXITING ./nisha_script.sh ]
+/home/nisha  INITIALISING ./nisha_script.sh
+/home/nisha ./nisha_script.sh [INITIAL]:Asking user to input directory name to store output datafile
+/home/nisha ./nisha_script.sh [SUCCESS]: Entered directory name is- d6
+/home/nisha ./nisha_script.sh [CHECK]:checking if directory name- d6 already Exists or not
+/home/nisha ./nisha_script.sh [FAIL]: Directory  d6  already Exists 
+/home/nisha  INITIALISING ./nisha_script.sh
+/home/nisha ./nisha_script.sh [INITIAL]:Asking user to input directory name to store output datafile
+/home/nisha ./nisha_script.sh [SUCCESS]: Entered directory name is- d7
+/home/nisha ./nisha_script.sh [CHECK]:checking if directory name- d7 already Exists or not
+/home/nisha ./nisha_script.sh [SUCCESS]: New Directory d7 has been created at /home/nisha
+/home/nisha ./nisha_script.sh [SUCCESS]:Output Directory changed to /home/nisha/d7
+/home/nisha ./nisha_script.sh [SUCCESS] Spreadsheet1 downloaded from below url - https://docs.google.com/spreadsheets/d/e/2PACX-1vSpwV_MZ1SP_Tz47-E5UZ87PDKVfv_6iAAF91nhRet6ST7a-6C8SrfLr00R_jiooMmew-M6wDXrrgZD/pub?output=csv
+/home/nisha ./nisha_script.sh [SUCCESS] Downloaded file renamed to Evaluation_sheet1.csv
+/home/nisha ./nisha_script.sh [SUCCESS] Spreadsheet2 downloaded from below url -- https://docs.google.com/spreadsheets/d/e/2PACX-1vSpwV_MZ1SP_Tz47-E5UZ87PDKVfv_6iAAF91nhRet6ST7a-6C8SrfLr00R_jiooMmew-M6wDXrrgZD/pub?output=csv
+/home/nisha ./nisha_script.sh [SUCCESS] Downloaded file renamed to Evaluation_sheet2.csv
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Intern Name_ in sheet1=2]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Intern Name_ in sheet2=2]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Average_ in sheet1=11]
+/home/nisha ./nisha_script.sh [SUCCESS] Counted column no. of [_Average_ in sheet2=11]
+/home/nisha ./nisha_script.sh [SUCCESS]: Extracted Name, Sum, Column from sheet1 and stored to /home/nisha/d7 as (Output_of_Sheet)
+/home/nisha ./nisha_script.sh [SUCCESS]: Extracted Name, Sum, Column from sheet2 and stored to /home/nisha/d7 as (Output_of_Sheet)
+/home/nisha ./nisha_script.sh [SUCCESS] Output generated to terminal
+/home/nisha ./nisha_script.sh [EXITING ./nisha_script.sh ]
+/home/nisha ./nisha_script.sh [REINITIATING SCRIPT ./nisha_script.sh]
