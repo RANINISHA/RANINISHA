@@ -1,16 +1,72 @@
+<h1 align="center">  To create  VM  of   linux/ARM64    using qemu  on  linux/x86_64<h1>
+ 
+ 
 
+<h2 align="center"> Task Description </h2>
 
+<p align="center" > To create  VM  of   linux/ARM64 architecture   using qemu  on  base os of linux/x86_64 architecture</p>
+ 
+------
+ 
+ <h2 align="center"> Environment</h2>
+   <details close="close"> 
+    <summary><b> Click here</b> :point_left:</summary>
 
+  <ul>
+  <li>Host OS version: NAME="Ubuntu"</li>
+  <li>VERSION="20.04.2 LTS (Focal Fossa)" </li>
+  <li>ARchitecture:x86_64</li>
+  <li>RAM : 8GB</li>
+  <li> Disk available.. : 589 GB </li>
+    </ul>
+  </details>
 
+ -----------
+ 
+<h1 align="center"> STEPS FOLLOWED TO CREATE  VM</h1>
+ 
+ <h2 align="center"> step1: install packages</h2>
 
+ <p align="center">  sudo apt-get install qemu-utils qemu-efi-aarch64 qemu-system-arm  </p >
+  
+ 
+ 
+  <h2 align="center"> step2: add ssh key to the image</h2>
 
+ <p align="center"> sudo modprobe nbd /n
+sudo qemu-nbd -c /dev/nbd0 debian-9.9.0-openstack-arm64.qcow2/n
+sudo mount /dev/nbd0p2 /mnt /n
+ssh-add -L > /mnt/home/debian/.ssh/authorized_keys/n
+sudo umount /mnt/n
+sudo qemu-nbd -d /dev/nbd0
+ </p >
+  
+ 
+ 
+  <h2 align="center"> step1: install packages</h2>
 
+ <p align="center">  sudo apt-get install qemu-utils qemu-efi-aarch64 qemu-system-arm  </p >
+  
+ 
+ 
+  <h2 align="center"> step1: install packages</h2>
 
+ <p align="center">  sudo apt-get install qemu-utils qemu-efi-aarch64 qemu-system-arm  </p >
+  
+ 
+ 
+ 
+  <h2 align="center"> step1: install packages</h2>
 
-
-
-
-
+ <p align="center">  sudo apt-get install qemu-utils qemu-efi-aarch64 qemu-system-arm  </p >
+  
+ 
+ 
+ 
+ ------- 
+   
+  
+  
 
 
 
