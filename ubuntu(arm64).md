@@ -33,74 +33,41 @@
  
   <h2 align="center"> step2: add ssh key to the image</h2>
 
- <p align="center"> sudo modprobe nbd /n
-sudo qemu-nbd -c /dev/nbd0 debian-9.9.0-openstack-arm64.qcow2/n
-sudo mount /dev/nbd0p2 /mnt /n
-ssh-add -L > /mnt/home/debian/.ssh/authorized_keys/n
-sudo umount /mnt/n
-sudo qemu-nbd -d /dev/nbd0
- </p >
+ <p align="center"> sudo modprobe nbd </p>
+<p align="center"> sudo qemu-nbd  -c /dev/nbd0  -f qcow2 debian-9-openstack-arm64.qcow2 </p>
+<p align="center"> sudo mount /dev/nbd0p2 /mnt </p>
+<p align="center"> ssh-add -L > /mnt/home/debian/.ssh/authorized_keys </p>
+<p align="center"> sudo umount /mnt </p>
+<p align="center">sudo qemu-nbd -d /dev/nbd0 </p>
+ 
+ -------
+ 
+  <h2 align="center"> step3: boot the image</h2>
+
+ <p align="center"> qemu-system-aarch64 -m 2G -M virt -cpu max \
+  -bios /usr/share/qemu-efi-aarch64/QEMU_EFI.fd \
+  -drive if=none,file=debian-9-openstack-arm64.qcow2,id=hd0 -device virtio-blk-device,drive=hd0 \
+  -device e1000,netdev=net0 -netdev user,id=net0,hostfwd=tcp:127.0.0.1:5555-:22 \
+  -nographic </p >
   
+ ---------
  
- 
-  <h2 align="center"> step1: install packages</h2>
+  <h2 align="center"> step4: use ssh to login </h2>
 
- <p align="center">  sudo apt-get install qemu-utils qemu-efi-aarch64 qemu-system-arm  </p >
+ <p align="center">  ssh debian@127.0.0.1 -p 5555  </p >
+ 
+ -----
   
+    <h2 align="center"> Refference link </h2>
  
- 
-  <h2 align="center"> step1: install packages</h2>
+  <p align="center">  https://wiki.debian.org/Arm64Qemu </p >
 
- <p align="center">  sudo apt-get install qemu-utils qemu-efi-aarch64 qemu-system-arm  </p >
-  
  
  
- 
-  <h2 align="center"> step1: install packages</h2>
 
- <p align="center">  sudo apt-get install qemu-utils qemu-efi-aarch64 qemu-system-arm  </p >
-  
  
- 
- 
- ------- 
-   
-  
   
 
 
 
-
-I  have to create  VM  of   linux/ARM64    using qemu   on below  environment  :
-
-Host OS version: NAME="Ubuntu"
-VERSION="20.04.2 LTS (Focal Fossa)"
-ARchitecture:x86_64
-RAM : 8GB
-Disk available.. : 589 GB 
-
-for which i have used the link below:
-
-https://wiki.debian.org/Arm64Qemu
-
-In 2nd step of above link  ,while executing  below command:
-
-$ sudo qemu-nbd  -vc /dev/nbd0 debian-9-openstack-arm64.qcow2
-I  got the error:
-qemu-nbd: Failed to set NBD socket
-
-[SOLUTION]
-
-To resolve the issue i performed below steps:
-
-1) sudo modprobe nbd     // to load the module nbd
-2) sudo lsmod |grep nbd    //to check whether kermel module nbd is loaded
-if it is loaded   it will show output  like this :
-nbd                    45056  3
-3) I tried 
-
- by specifying qcow2 format =>
-$ sudo qemu-nbd  -c /dev/nbd0  -f qcow2 debian-9-openstack-arm64.qcow2  and it worked without any error
-
-Hence the  NBD socket  issue is resolved.
 
