@@ -61,8 +61,13 @@
     <h2 align="center"> Refference link </h2>
  
   <p align="center">  https://wiki.debian.org/Arm64Qemu </p >
-
  
+   
+ 
+ <p align="center"> https://variwiki.com/index.php?title=Debian_Hello_World </p >
+
+
+ https://variwiki.com/index.php?title=Debian_Hello_World
  
 
  
