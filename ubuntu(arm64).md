@@ -64,12 +64,6 @@
  
    
  
- <p align="center"> https://variwiki.com/index.php?title=Debian_Hello_World </p >
-
-
- https://variwiki.com/index.php?title=Debian_Hello_World
- 
-
  
   
 
