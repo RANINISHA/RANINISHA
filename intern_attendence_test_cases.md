@@ -1,4 +1,4 @@
-<h2 align="center">Intern attendence</h2> 
+<h1 align="center">Intern Attendence</h1> 
 
 -----
 <p align="center"><b>To Create a script to mark attendence of interns on the  basis of status or queries recieved  on mail .</b></p>
